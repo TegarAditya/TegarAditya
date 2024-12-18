@@ -1,6 +1,6 @@
 ## Hi there, Welcome to My GitHub Profile 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tegaraditya&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
+[![GitHub Streak](https://personal-readme-streak.vercel.app?user=TegarAditya&theme=highcontrast&mode=weekly&card_width=1012)](https://git.io/streak-stats)
 [![TegarAditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TegarAditya&bg_color=0d1117&color=ffffff&line=025cda&point=7d7d7d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **TegarAditya/tegaraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
