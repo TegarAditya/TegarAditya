@@ -1,7 +1,12 @@
 ## Hi there, Welcome to My GitHub Profile 👋
 
-[![GitHub Streak](https://personal-readme-streak.vercel.app?user=TegarAditya&theme=highcontrast&mode=weekly&card_width=1012)](https://git.io/streak-stats)
-[![TegarAditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TegarAditya&bg_color=0d1117&color=ffffff&line=025cda&point=7d7d7d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![TegarAditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TegarAditya&bg_color=0d1117&color=ffffff&line=025cda&point=7d7d7d&area=true&hide_border=true)
+<p align="center">
+<a href="https://github.com/TegarAditya">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TegarAditya&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TegarAditya&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
 <!--
 **TegarAditya/tegaraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
