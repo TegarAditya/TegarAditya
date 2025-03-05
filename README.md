@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about web development and have expe
 - **Frameworks**: Hono, Elysia, Express, Nuxt, Svelte, and many more...
 - **Tools**: mainly VSCode
 
-## 📈 GitHub Stats and Activity
+## 📈 GitHub Stats & Activity
 
 <p align="left">
 <a href="https://github.com/TegarAditya">
