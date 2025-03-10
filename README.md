@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about web development and have expe
 ## 🔧 Technologies & Tools
 
 - **Languages**: Typescript, PHP
-- **Frameworks**: Hono, Elysia, Express, Nuxt, Svelte, and many more...
+- **Frameworks**: Hono, Elysia, Express, Laravel, Nuxt, Svelte, and many more...
 - **Tools**: mainly VSCode
 
 ## 📈 GitHub Stats & Activity
