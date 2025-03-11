@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm passionate about web development and have expe
 
 - **LinkedIn**: [Tegar Aditya](https://www.linkedin.com/in/tegar-aditya/)
 - **Email**: [tegaraditya53@gmail.com](mailto:tegaraditya53@gmail.com)
+- **Discord**: tegaraditya
 <!--
 **TegarAditya/tegaraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
