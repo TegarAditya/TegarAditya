@@ -13,9 +13,20 @@ Welcome to my GitHub profile! I'm passionate about web development and have expe
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Typescript, PHP
-- **Frameworks**: Hono, Elysia, Express, Laravel, Nuxt, Svelte, and many more...
-- **Tools**: mainly VSCode
+#### ✅ Languages
+[![Languages](https://skillicons.dev/icons?i=php,js,ts,go)](https://skillicons.dev)
+
+#### ✅ Frameworks & Runtime
+[![Frameworks](https://skillicons.dev/icons?i=laravel,nodejs,bun,svelte,vue,nuxtjs)](https://skillicons.dev)
+
+#### ✅ Database & ORM
+[![Languages](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma)](https://skillicons.dev)
+
+#### ✅ Tools
+[![Languages](https://skillicons.dev/icons?i=vscode,neovim,git,postman,docker,nginx,prometheus,grafana)](https://skillicons.dev)
+
+#### ✅ Operating Systems
+[![Languages](https://skillicons.dev/icons?i=windows,ubuntu,linux)](https://skillicons.dev)
 
 ## 📈 GitHub Stats & Activity
 
