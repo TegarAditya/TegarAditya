@@ -14,19 +14,19 @@ Welcome to my GitHub profile! I'm passionate about web development and have expe
 ## 🔧 Technologies & Tools
 
 ### 📖 Languages
-[![Languages: PHP, Javascript, Typescript, Golang](https://skillicons.dev/icons?i=php,js,ts,go)](https://skillicons.dev)
+![Languages: PHP, Javascript, Typescript, Golang](https://go-skill-icons.vercel.app/api/icons?i=php,js,ts,go)
 
-### 🚀 Frameworks & Runtime
-[![Frameworks: Laravel, NodeJS, Bun, Svelte, Vue, NuxtJS](https://skillicons.dev/icons?i=laravel,nodejs,bun,deno,workers,svelte,vue,nuxtjs)](https://skillicons.dev)
+### 🚀 Frameworks
+![Frameworks: Laravel, NodeJS, Bun, Svelte, Vue, NuxtJS](https://go-skill-icons.vercel.app/api/icons?i=laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs)
 
-### 📦 Database & ORM
-[![Database: MySQL, MariaDB, PostgreSQL, MongoDB, Prisma](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma)](https://skillicons.dev)
+### 📦 Database
+![Database: MySQL, MariaDB, PostgreSQL, MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mongodb,redis)
 
 ### 🛠️ Tools
-[![Tools: VSCode, Neovim, Git, Postman, Docker, Nginx, prometheus, grafana](https://skillicons.dev/icons?i=vscode,neovim,git,postman,docker,nginx,prometheus,grafana)](https://skillicons.dev)
+![Tools: VSCode, Neovim, Git, Postman, Docker, Nginx, prometheus, grafana](https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim,git,postman,docker,nginx,prometheus,grafana)
 
 ### 🖥️ Operating Systems
-[![OS: Windows, Linux (Ubuntu)](https://skillicons.dev/icons?i=windows,ubuntu,linux)](https://skillicons.dev)
+![OS: Windows, Linux (Ubuntu)](https://go-skill-icons.vercel.app/api/icons?i=windows,linux)
 
 ## 📈 GitHub Stats & Activity
 
