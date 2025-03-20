@@ -13,20 +13,7 @@ Welcome to my GitHub profile! I'm passionate about web development and have expe
 
 ## 🔧 Technologies & Tools
 
-### 📖 Languages
-![Languages: PHP, Javascript, Typescript, Golang](https://go-skill-icons.vercel.app/api/icons?i=php,js,ts,go)
-
-### 🚀 Frameworks
-![Frameworks: Laravel, NodeJS, Bun, Svelte, Vue, NuxtJS](https://go-skill-icons.vercel.app/api/icons?i=laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs)
-
-### 📦 Database
-![Database: MySQL, MariaDB, PostgreSQL, MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mongodb,redis)
-
-### 🛠️ Tools
-![Tools: VSCode, Neovim, Git, Postman, Docker, Nginx, prometheus, grafana](https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim,git,postman,docker,nginx,prometheus,grafana)
-
-### 🖥️ Operating Systems
-![OS: Windows, Linux (Ubuntu)](https://go-skill-icons.vercel.app/api/icons?i=windows,linux)
+![Texh Stacks](https://go-skill-icons.vercel.app/api/icons?i=php,js,ts,go,laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs,mysql,postgres,mongodb,redis,vscode,neovim,git,postman,docker,nginx,prometheus,grafana,windows,linux)
 
 ## 📈 GitHub Stats & Activity
 
