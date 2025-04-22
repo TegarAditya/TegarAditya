@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm passionate about web development and have expe
 
 <p align="left">
 <a href="https://github.com/TegarAditya">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TegarAditya&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TegarAditya&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TegarAditya&show_icons=true&theme=dark&count_private=true&line_height=27" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TegarAditya&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
