@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about web development and have experience in various projects.
 
 - 🌐 **Website**: [tegar.dev](https://tegar.dev)
-- 📍 **Location**: Karanganyar, Indonesia
+- 📍 **Location**: Karanganyar, Central Java, Indonesia
 
 <p align="center">
   <a href="https://wakatime.com/@9a97a1f8-88f3-43cd-8202-8a4742c77aa4">
