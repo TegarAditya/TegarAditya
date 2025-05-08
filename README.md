@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # Hi there, I'm Tegar Aditya! 👋
 
 Welcome to my GitHub profile! I'm passionate about web development and have experience in various projects.
