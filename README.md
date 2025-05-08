@@ -6,16 +6,13 @@ Welcome to my GitHub profile! I'm passionate about web development and have expe
 
 - 🌐 **Website**: [tegar.dev](https://tegar.dev)
 - 📍 **Location**: Karanganyar, Central Java, Indonesia
-
-<p align="center">
-  <a href="https://wakatime.com/@9a97a1f8-88f3-43cd-8202-8a4742c77aa4">
-    <img src="https://wakatime.com/badge/user/9a97a1f8-88f3-43cd-8202-8a4742c77aa4.svg" alt="Total time coded since Aug 26 2024" />
-  </a>
-</p>
+<br />
 
 ## 🔧 Technologies & Tools
 
 ![Tech Stacks (php,js,ts,go,laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs,mysql,postgres,mongodb,redis,vscode,neovim,git,postman,docker,nginx,prometheus,grafana,windows,linux)](https://go-skill-icons.vercel.app/api/icons?i=php,js,ts,go,laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs,mysql,postgres,mongodb,redis,vscode,neovim,git,postman,docker,nginx,prometheus,grafana,windows,linux)
+
+<br />
 
 ## 📈 GitHub Stats & Activity
 
@@ -27,6 +24,13 @@ Welcome to my GitHub profile! I'm passionate about web development and have expe
 </p>
 
 ![TegarAditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TegarAditya&bg_color=0d1117&color=ffffff&line=025cda&point=7d7d7d&area=true)
+
+<p align="center">
+  <a href="https://wakatime.com/@9a97a1f8-88f3-43cd-8202-8a4742c77aa4">
+    <img src="https://wakatime.com/badge/user/9a97a1f8-88f3-43cd-8202-8a4742c77aa4.svg" alt="Total time coded since Aug 26 2024" />
+  </a>
+</p>
+<br />
 
 ## 📫 Get in Touch
 
