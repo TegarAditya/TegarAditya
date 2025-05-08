@@ -10,7 +10,12 @@ Welcome to my GitHub profile! I'm passionate about web development and have expe
 
 ## 🔧 Technologies & Tools
 
-![Tech Stacks (php,js,ts,go,laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs,mysql,postgres,mongodb,redis,vscode,neovim,git,postman,docker,nginx,prometheus,grafana,windows,linux)](https://go-skill-icons.vercel.app/api/icons?i=php,js,ts,go,laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs,mysql,postgres,mongodb,redis,vscode,neovim,git,postman,docker,nginx,prometheus,grafana,windows,linux)
+<p>
+
+![Tech Stacks (php,js,ts,go,laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs,mysql,postgres,mongodb,redis,vscode,neovim,git,postman,docker,nginx,prometheus,grafana,windows,linux)](https://go-skill-icons.vercel.app/api/icons?i=php,js,ts,go,laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs,mysql,postgres&perline=8)
+![Tech Stacks (php,js,ts,go,laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs,mysql,postgres,mongodb,redis,vscode,neovim,git,postman,docker,nginx,prometheus,grafana,windows,linux)](https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,vscode,neovim,git,postman,docker,nginx,prometheus,grafana,windows,linux&perline=8)
+
+</p>
 
 <br />
 
