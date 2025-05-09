@@ -2,10 +2,10 @@
 
 # Hi there, I'm Tegar Aditya! 👋
 
-Welcome to my GitHub profile! I'm passionate about web development and have experience in various projects.
+Building Scalable APIs & Fullstack Web Apllication | Deployment & Automation Enthusiast
 
-- 🌐 **Website**: [tegar.dev](https://tegar.dev)
-- 📍**Location**: Karanganyar, Central Java, Indonesia
+📍 Based in **Karanganyar, Central Java, Indonesia**  
+💻 **Portfolio**: [tegar.dev](https://tegar.dev)
 
 ## 🔧 Technologies & Tools
 
