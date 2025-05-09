@@ -5,19 +5,20 @@
 Welcome to my GitHub profile! I'm passionate about web development and have experience in various projects.
 
 - 🌐 **Website**: [tegar.dev](https://tegar.dev)
-- 📍 **Location**: Karanganyar, Central Java, Indonesia
-<br />
+- 📍**Location**: Karanganyar, Central Java, Indonesia
 
 ## 🔧 Technologies & Tools
 
 <p>
 
-![Tech Stacks (php,js,ts,go,laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs,mysql,postgres,mongodb,redis,vscode,neovim,git,postman,docker,nginx,prometheus,grafana,windows,linux)](https://go-skill-icons.vercel.app/api/icons?i=php,js,ts,go,laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs,mysql,postgres&perline=8)
-![Tech Stacks (php,js,ts,go,laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs,mysql,postgres,mongodb,redis,vscode,neovim,git,postman,docker,nginx,prometheus,grafana,windows,linux)](https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,vscode,neovim,git,postman,docker,nginx,prometheus,grafana,windows,linux&perline=8)
+![Tech Stacks][tech_stack_1]
+![Tech Stacks][tech_stack_2]
 
 </p>
 
-<br />
+## 📃 Certification
+
+![BNSP Badge][bnsp_badge]
 
 ## 📈 GitHub Stats & Activity
 
@@ -35,7 +36,6 @@ Welcome to my GitHub profile! I'm passionate about web development and have expe
     <img src="https://wakatime.com/badge/user/9a97a1f8-88f3-43cd-8202-8a4742c77aa4.svg" alt="Total time coded since Aug 26 2024" />
   </a>
 </p>
-<br />
 
 ## 📫 Get in Touch
 
@@ -56,3 +56,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[tech_stack_1]: https://go-skill-icons.vercel.app/api/icons?i=php,js,ts,go,laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs,mysql,postgres&perline=8
+[tech_stack_2]: https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,vscode,neovim,git,postman,docker,nginx,prometheus,grafana,windows,linux&perline=8
+[bnsp_badge]: https://img.shields.io/badge/BNSP-No.%20Reg.%20TIK%201847%2000000073%202024-blue
