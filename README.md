@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about web development and have expe
 </a>
 </p>
 
-![TegarAditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TegarAditya&bg_color=0d1117&color=ffffff&line=025cda&point=7d7d7d&area=true)
+![TegarAditya's github activity graph][activity_graph]
 
 <p align="center">
   <a href="https://wakatime.com/@9a97a1f8-88f3-43cd-8202-8a4742c77aa4">
@@ -61,3 +61,4 @@ Here are some ideas to get you started:
 [tech_stack_1]: https://go-skill-icons.vercel.app/api/icons?i=php,js,ts,go,laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs,mysql,postgres&perline=8
 [tech_stack_2]: https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,vscode,neovim,git,postman,docker,nginx,prometheus,grafana,windows,linux&perline=8
 [bnsp_badge]: https://img.shields.io/badge/BNSP-No.%20Reg.%20TIK%201847%2000000073%202024-blue
+[activity_graph]: https://github-readme-activity-graph.vercel.app/graph?username=TegarAditya&bg_color=0d1117&color=ffffff&line=025cda&point=7d7d7d&area=true
