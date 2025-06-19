@@ -24,7 +24,7 @@ I'm always eager to learn, contribute, and collaborate on exciting projects that
 - **Portfolio**: [tegar.dev](https://tegar.dev)
 - **LinkedIn**: [Tegar Aditya](https://www.linkedin.com/in/tegar-aditya/)
 - **Email**: [tegaraditya53@gmail.com](mailto:tegaraditya53@gmail.com)
-- **Discord**: tegaraditya
+- **Discord**: [tegaraditya](https://discord.com/users/701324869085691975)
 
 ## 🔧 Technologies & Tools
 
