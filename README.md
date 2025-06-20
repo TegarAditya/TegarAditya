@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 -->
 
 
-[tech_stack_1]: https://go-skill-icons.vercel.app/api/icons?i=php,js,ts,go,laravel,fiber,gin,express,hono,elysia,prisma,svelte,vue,nuxtjs&perline=7
+[tech_stack_1]: https://go-skill-icons.vercel.app/api/icons?i=php,js,ts,go,rust,laravel,fiber,express,hono,elysia,prisma,svelte,vue,nuxtjs&perline=7
 [tech_stack_2]: https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mongodb,redis,vscode,neovim,git,postman,docker,nginx,prometheus,grafana,windows,linux&perline=7
 [bnsp_badge]: https://img.shields.io/badge/BNSP-No.%20Reg.%20TIK%201847%2000000073%202024-blue
 [activity_graph]: https://github-readme-activity-graph.vercel.app/graph?username=TegarAditya&bg_color=0d1117&color=ffffff&line=025cda&point=7d7d7d&area=true
