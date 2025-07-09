@@ -37,7 +37,7 @@ I'm always eager to learn, contribute, and collaborate on exciting projects that
 
 ## 📃 Certification
 
-<img height=150 src="https://lsp.uns.ac.id/wp-content/smush-webp/2025/04/logo-lsp-putih.png.webp" />
+<img height=110 src="https://lsp.uns.ac.id/wp-content/smush-webp/2025/04/logo-lsp-putih.png.webp" />
 
 ![BNSP Badge][bnsp_badge]
 
