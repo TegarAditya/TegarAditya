@@ -41,7 +41,7 @@ I'm always eager to learn, contribute, and collaborate on exciting projects that
 
 ![BNSP Badge][bnsp_badge]
 
-## 📈 GitHub Stats & Activity
+## 📈 Stats & Activity
 
 <p align="left">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=TegarAditya&show_icons=true&theme=dark&count_private=true" />
