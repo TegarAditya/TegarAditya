@@ -56,10 +56,6 @@ I'm always eager to learn, contribute, and collaborate on exciting projects that
    <img src="https://img.shields.io/endpoint?url=https://wakapi.tegar.dev/api/compat/shields/v1/tegaraditya/interval:all_time&label=All%20time&color=blue" alt="Total time coded since Aug 26 2024" />
 </p>
 
-<p align="center">
-   <img src="https://roadmap.sh/card/wide/68832cb386548d698af0e459?variant=dark" alt="roadmap.sh"/>
-</p>
-
 <!--
 **TegarAditya/tegaraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
