@@ -50,6 +50,8 @@ I'm always eager to learn, contribute, and collaborate on exciting projects that
 
 ![TegarAditya's github activity graph][activity_graph]
 
+![TegarAditya's wakapi activity](https://wakapi.tegar.dev/api/activity/chart/tegaraditya.svg)
+
 <p align="center">
    <img src="https://wakapi.tegar.dev/api/badge/tegaraditya/interval:today?label=today" alt="Total time coded for todat" />
    <img src="https://wakapi.tegar.dev/api/badge/tegaraditya/interval:30_days?label=last%2030d" alt="Total time coded in last 30 days" />
