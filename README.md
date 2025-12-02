@@ -44,8 +44,8 @@ I'm always eager to learn, contribute, and collaborate on exciting projects that
 ## 📈 Stats & Activity
 
 <p align="left">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=TegarAditya&show_icons=true&theme=dark&count_private=true" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TegarAditya&layout=compact&langs_count=8&theme=dark&hide=blade,css,html,mdx,plpgsql,astro,scss"/>
+  <img height=200 src="https://gh-stats.tegar.dev/api?username=TegarAditya&show_icons=true&theme=dark&count_private=true" />
+  <img height=200 src="https://gh-stats.tegar.dev/api/top-langs/?username=TegarAditya&layout=compact&langs_count=8&theme=dark&hide=blade,css,html,mdx,plpgsql,astro,scss"/>
 </p>
 
 ![TegarAditya's github activity graph][activity_graph]
