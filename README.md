@@ -1,11 +1,9 @@
 ```
- _________ ________   ______      _      _______      ______  ________ ____   ____  
-|  _   _  |_   __  |.' ___  |    / \    |_   __ \    |_   _ `|_   __  |_  _| |_  _| 
-|_/ | | \_| | |_ \_/ .'   \_|   / _ \     | |__) |     | | `. \| |_ \_| \ \   / /   
-    | |     |  _| _| |   ____  / ___ \    |  __ /      | |  | ||  _| _   \ \ / /    
-   _| |_   _| |__/ \ `.___]  _/ /   \ \_ _| |  \ \_ _ _| |_.' _| |__/ |   \ ' /     
-  |_____| |________|`._____.|____| |____|____| |___(_|______.|________|    \_/      
-
+  _____________________    ____    ____  _______    __
+ /_  __/ ____/ ____/   |  / __ \  / __ \/ ____/ |  / /
+  / / / __/ / / __/ /| | / /_/ / / / / / __/  | | / / 
+ / / / /___/ /_/ / ___ |/ _, _/ / /_/ / /___  | |/ /  
+/_/ /_____/\____/_/  |_/_/ |_(_)_____/_____/  |___/                                                      
 ```                                                                                                                
                                                                                                                 
 
@@ -13,11 +11,12 @@
 
 _"Building Scalable APIs & Fullstack Web Apllication | Deployment & Automation Enthusiast"_
 
-Hello! My name is Tegar Aditya, a dedicated and passionate web developer. I thrive on transforming complex ideas into functional and user-friendly web applications. My journey in programming has led me to specialize primarily in the robust world of **PHP** and the dynamic **JavaScript** ecosystem, which includes extensive experience with **TypeScript** for building scalable and maintainable front-end and back-end solutions.
+Hi, I’m Tegar Aditya — a web developer who enjoys turning ideas into clean, reliable, and user-friendly applications.
 
-Beyond my core expertise, I am constantly exploring and integrating new technologies to enhance performance and solve challenging problems. This includes leveraging the power of **Golang** for high-performance microservices and server-side operations, and utilizing **Rust** when efficiency, safety, and concurrency are paramount, particularly in performance-critical web components or system-level tools that support web applications.
+I mainly work with PHP and the JavaScript ecosystem, including TypeScript, to build scalable front-end and back-end solutions. When performance matters, I reach for Golang for efficient services and Rust for safety-critical or high-performance components.
 
-I'm always eager to learn, contribute, and collaborate on exciting projects that push the boundaries of web development. Feel free to explore my repositories and reach out if you have an interesting idea or just want to connect!
+I enjoy learning new technologies, solving real-world problems, and collaborating on meaningful projects.
+Feel free to explore my repositories — and let’s build something interesting together.
 
 ## 📫 Get in Touch
 - Based in **Karanganyar, Central Java, Indonesia**
