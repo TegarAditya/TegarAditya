@@ -50,7 +50,7 @@ Feel free to explore my repositories — and let’s build something interesting
 ![TegarAditya's github activity graph][activity_graph]
 
 <p align="center">
-  <img height=200 src="https://nirzak-streak-stats.vercel.app/?user=TegarAditya&theme=dark&hide_border=false&mode=weekly" />
+  <img height=200 src="https://gh-streak.tegar.dev/?user=TegarAditya&theme=dark&hide_border=false&mode=weekly" />
 </p>
 
 <p align="center">
