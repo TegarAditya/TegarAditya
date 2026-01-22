@@ -38,7 +38,7 @@ Feel free to explore my repositories — and let’s build something interesting
 
 | Badge        | Skills Acquired |
 |--------------|-----------------|
-| <img height=110 src="https://lsp.uns.ac.id/wp-content/smush-webp/2025/04/logo-lsp-putih.png.webp" /><br>![BNSP Badge][bnsp_badge] | 1. Use program specifications<br> 2. Write code according to guidelines and best practices<br> 3. Implement structured programming<br> 4. Implement object-oriented programming<br> 5. Use pre-existing libraries or components<br> 6. Apply database access<br> 7. Create program documentation<br> 8. Perform debugging<br> 9. Perform unit testing |
+| <img height=110 src="https://lsp.uns.ac.id/wp-content/smush-webp/2026/01/logo-lsp-putih-300x134.png.webp" /><br>![BNSP Badge][bnsp_badge] | 1. Use program specifications<br> 2. Write code according to guidelines and best practices<br> 3. Implement structured programming<br> 4. Implement object-oriented programming<br> 5. Use pre-existing libraries or components<br> 6. Apply database access<br> 7. Create program documentation<br> 8. Perform debugging<br> 9. Perform unit testing |
 
 ## 📈 Stats & Activity
 
