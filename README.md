@@ -23,7 +23,6 @@ Feel free to explore my repositories — and let’s build something interesting
 - **Portfolio**: [tegar.dev](https://tegar.dev)
 - **LinkedIn**: [Tegar Aditya](https://www.linkedin.com/in/tegar-aditya/)
 - **Email**: [tegaraditya53@gmail.com](mailto:tegaraditya53@gmail.com)
-- **Discord**: [tegaraditya](https://discord.com/users/701324869085691975)
 
 ## 🔧 Technologies & Tools
 
