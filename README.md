@@ -22,7 +22,7 @@ Feel free to explore my repositories — and let’s build something interesting
 - Based in **Karanganyar, Central Java, Indonesia**
 - **Portfolio**: [tegar.dev](https://tegar.dev)
 - **LinkedIn**: [Tegar Aditya](https://www.linkedin.com/in/tegar-aditya/)
-- **Email**: [tegaraditya53@gmail.com](mailto:tegaraditya53@gmail.com)
+- **Email**: [contact@tegar.dev](mailto:contact@tegar.dev)
 
 ## 🔧 Technologies & Tools
 
